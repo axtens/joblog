@@ -1,6 +1,8 @@
 # joblog
 Job logging tool written in Fitted Software Tools Modula-2
 
+The original project, in [ready](https://github.com/axtens/ready) format, also provided. Saves to JOBLOG.DAT.
+
 See the [xlb](https://github.com/axtens/xlb) project for required non-FST libraries.
 
 Building and/or converting to another Modula-2 is left as a task for the reader and/or the author should he find the time.
